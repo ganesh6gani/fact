@@ -10,3 +10,4 @@ else:
         fact = fact * i
     print("{}! = {}".format(n, fact))
 print("Hi")
+print("Hello")
